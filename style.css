@@ -1,0 +1,12 @@
+
+.text{
+    text-align: center;
+    border: solid;
+    font-style: italic;
+    padding: 20px;
+    margin: 5%;
+}
+
+.container{
+    border: dotted palevioletred;
+}
